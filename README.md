@@ -5,6 +5,8 @@ This repository is a dedicated training ground for mastering the core syntax and
 **The Goal:** Write every line of code without opening a search engine. 
 **The Rule:** If I don't know the syntax, I must struggle with the compiler/interpreter until I remember or logically deduce it.
 
+I will implement core algorithms from scratch to develop the muscle memory required for high-speed, autonomous coding in offline or restricted environments. 
+
 ---
 
 ## Python: The Data Scientist's Swiss Army Knife

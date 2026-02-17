@@ -75,4 +75,4 @@ To bridge the gap between "Coder" and "Engineer," these fundamentals must be mas
 > "Health in mind, health in body." — *Mustafa Kemal Atatürk*
 
 ---
-© 2026 | Geodetic Engineering Student | University of Bonn
+Melih Levent Aslan | M.Sc. Geodetic Engineering Student, University of Bonn

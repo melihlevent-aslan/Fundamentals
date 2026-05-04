@@ -1,4 +1,6 @@
-Python: Ellipsoidal Distance Calculator
+DONE.
+
+Python: Ellipsoidal Distance Calculator  
 This project builds data parsing and mathematical implementation skills.
 
 Step 1: Construct the Mock Data: Create a simple text file (.csv) manually. Format it with headers: PointID, Latitude, Longitude. Add 5 to 10 rows of realistic coordinate data.
